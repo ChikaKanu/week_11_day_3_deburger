@@ -1,0 +1,13 @@
+What is the purpose of a breakpoint?
+Breakpoint is inserted into the application to enable debugger run the application up to the point where breakpoint in inserted, launch the application and watch the debugger console before running the error code or method.
+
+Does the line of code on a breakpoint run when you start debugging?
+The line does not run.
+
+How do we debug the next line of code?
+By use of step over button to pause at next line of program
+
+What does the step into command do?
+Step into is used to jump into the error method to enable debugger examine the method for code errors.
+
+What is the difference between evaluate expression and evaluate code fragment?
